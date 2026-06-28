@@ -163,4 +163,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 *If this script saved you hours of manual header updates, consider giving the repository a ⭐!*
-```
